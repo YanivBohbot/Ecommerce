@@ -1,27 +1,9 @@
-# AngularEcommerce
+# Angular And Spring Boot Ecommerce
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![ezgif com-gif-maker(3)](https://user-images.githubusercontent.com/48159579/124625709-b5ae1200-de86-11eb-923d-40b35ad9485b.gif)
 
-## Code scaffolding
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/48159579/124625714-b777d580-de86-11eb-9f8d-6e6ccd88e1ac.gif)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/48159579/124625725-b9da2f80-de86-11eb-822e-96997e7d4f31.gif)
